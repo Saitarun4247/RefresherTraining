@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\bin\Debug\net10.0\PracticeQuestion7.exe
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\bin\Debug\net10.0\PracticeQuestion7.deps.json
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\bin\Debug\net10.0\PracticeQuestion7.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\bin\Debug\net10.0\PracticeQuestion7.dll
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\bin\Debug\net10.0\PracticeQuestion7.pdb
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\obj\Debug\net10.0\PracticeQuestion7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\obj\Debug\net10.0\PracticeQuestion7.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\obj\Debug\net10.0\PracticeQuestion7.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\obj\Debug\net10.0\PracticeQuestion7.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\obj\Debug\net10.0\PracticeQuestion7.dll
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\obj\Debug\net10.0\refint\PracticeQuestion7.dll
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\obj\Debug\net10.0\PracticeQuestion7.pdb
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\obj\Debug\net10.0\PracticeQuestion7.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documents\DotnetTraining\Day4\PracticeQuestion7\obj\Debug\net10.0\ref\PracticeQuestion7.dll

@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\obj\Debug\net10.0\MutiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\obj\Debug\net10.0\MutiplicationTable.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\obj\Debug\net10.0\MutiplicationTable.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\obj\Debug\net10.0\MutiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\bin\Debug\net10.0\MutiplicationTable.exe
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\bin\Debug\net10.0\MutiplicationTable.deps.json
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\bin\Debug\net10.0\MutiplicationTable.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\bin\Debug\net10.0\MutiplicationTable.dll
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\bin\Debug\net10.0\MutiplicationTable.pdb
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\obj\Debug\net10.0\MutiplicationTable.dll
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\obj\Debug\net10.0\refint\MutiplicationTable.dll
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\obj\Debug\net10.0\MutiplicationTable.pdb
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\obj\Debug\net10.0\MutiplicationTable.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documents\DotnetTraining\MutiplicationTable\obj\Debug\net10.0\ref\MutiplicationTable.dll

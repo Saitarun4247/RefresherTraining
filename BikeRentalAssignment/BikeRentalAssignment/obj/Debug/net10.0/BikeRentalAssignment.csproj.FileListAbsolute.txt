@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\bin\Debug\net10.0\BikeRentalAssignment.exe
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\bin\Debug\net10.0\BikeRentalAssignment.deps.json
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\bin\Debug\net10.0\BikeRentalAssignment.runtimeconfig.json
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\bin\Debug\net10.0\BikeRentalAssignment.dll
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\bin\Debug\net10.0\BikeRentalAssignment.pdb
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\obj\Debug\net10.0\BikeRentalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\obj\Debug\net10.0\BikeRentalAssignment.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\obj\Debug\net10.0\BikeRentalAssignment.AssemblyInfo.cs
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\obj\Debug\net10.0\BikeRentalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\obj\Debug\net10.0\BikeRentalAssignment.dll
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\obj\Debug\net10.0\refint\BikeRentalAssignment.dll
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\obj\Debug\net10.0\BikeRentalAssignment.pdb
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\obj\Debug\net10.0\BikeRentalAssignment.genruntimeconfig.cache
+C:\Users\user\source\repos\BikeRentalAssignment\BikeRentalAssignment\obj\Debug\net10.0\ref\BikeRentalAssignment.dll

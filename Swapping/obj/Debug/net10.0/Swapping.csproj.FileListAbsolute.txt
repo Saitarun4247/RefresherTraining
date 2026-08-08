@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\bin\Debug\net10.0\Swapping.exe
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\bin\Debug\net10.0\Swapping.deps.json
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\bin\Debug\net10.0\Swapping.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\bin\Debug\net10.0\Swapping.dll
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\bin\Debug\net10.0\Swapping.pdb
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\obj\Debug\net10.0\Swapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\obj\Debug\net10.0\Swapping.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\obj\Debug\net10.0\Swapping.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\obj\Debug\net10.0\Swapping.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\obj\Debug\net10.0\Swapping.dll
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\obj\Debug\net10.0\refint\Swapping.dll
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\obj\Debug\net10.0\Swapping.pdb
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\obj\Debug\net10.0\Swapping.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documents\DotnetTraining\Swapping\obj\Debug\net10.0\ref\Swapping.dll
